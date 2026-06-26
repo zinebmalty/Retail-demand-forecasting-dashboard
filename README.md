@@ -83,7 +83,7 @@ The analysis focused on:
 ⸻
 
 Dashboard Preview
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](images/Executive dashboard.pdf)
 
 ⸻
 
