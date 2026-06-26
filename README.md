@@ -13,8 +13,7 @@ The main objectives of this project are to:
 
 * Analyze historical retail sales performance.
 * Monitor revenue and demand trends over time.
-* Identify the best-performing product formats and categories.
-* Compare sales performance across cities.
+* Compare sales performance across cities and different store locations
 * Forecast customer demand for the next three months.
 * Support inventory planning and reduce stock shortages or overstock situations.
 
@@ -74,8 +73,7 @@ The analysis focused on:
 * Measuring overall business performance using Total Revenue, Total Quantity, YoY Revenue Growth, and Total Forecast Demand.
 * Monitoring revenue trends over time to identify seasonality, growth periods, and unusual demand spikes.
 * Forecasting demand for the next three months using Power BI’s built-in forecasting capabilities.
-* Comparing revenue performance across different cities.
-* Identifying the highest-demand product categories.
+* Comparing revenue performance across different cities and stores
 * Ranking product formats based on total demand.
 * Evaluating yearly performance using an interactive Year slicer.
 * Measuring Year-over-Year revenue growth to assess business performance over time.
@@ -83,7 +81,8 @@ The analysis focused on:
 ⸻
 
 Dashboard Preview
-![Executive Dashboard](images/executive-dashboard.png)
+
+![Executive Dashboard](images/executive-dashboard.jpg)
 ⸻
 
 Business Insights
@@ -103,9 +102,9 @@ The dashboard revealed several important insights:
 Based on the analysis, the following actions are recommended:
 
 * Increase inventory before forecasted demand peaks to reduce stockout risk.
-* Prioritize replenishment for the highest-demand product categories and formats.
+* Prioritize replenishment for the highest-demand formats.
 * Allocate more inventory to cities with consistently strong demand.
-* Investigate underperforming cities to identify operational or marketing improvement opportunities.
+* Investigate underperforming cities and stores to identify operational or marketing improvement opportunities.
 * Use demand forecasts to improve purchasing schedules and warehouse planning.
 * Continuously monitor YoY Revenue Growth to evaluate business performance.
 * Compare forecasted demand with actual demand regularly to improve forecasting accuracy.
