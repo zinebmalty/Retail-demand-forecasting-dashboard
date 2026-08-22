@@ -3,7 +3,7 @@ Power BI dashboard for retail sales analysis and 3-month demand forecasting usin
 
 Project Overview
 
-This project presents an end-to-end retail demand forecasting solution built with Power BI. It analyzes historical sales data, identifies demand trends, and forecasts future demand for the next three months to support inventory planning and business decision-making.
+This project presents an end-to-end retail demand forecasting solution built with Power BI.
 
 ⸻
 
@@ -15,20 +15,9 @@ The main objectives of this project are to:
 * Monitor revenue and demand trends over time.
 * Compare sales performance across cities and different store locations
 * Forecast customer demand for the next three months.
-* Support inventory planning and reduce stock shortages or overstock situations.
+
 
 ⸻
-
-Prepare
-
-Data Source
-
-Retail sales dataset containing:
-
-* Sales transactions
-* Product categories
-* Store information
-* Calendar (Date table)
 
 Data Preparation
 
@@ -39,7 +28,7 @@ The dataset was prepared using Power Query by:
 * Correcting data types.
 * Creating a Calendar table.
 * Building relationships between tables.
-* Optimizing the data model.
+
 
 ⸻
 
@@ -74,7 +63,6 @@ The analysis focused on:
 * Monitoring revenue trends over time to identify seasonality, growth periods, and unusual demand spikes.
 * Forecasting demand for the next three months using Power BI’s built-in forecasting capabilities.
 * Comparing revenue performance across different cities and stores
-* Ranking product formats based on total demand.
 * Evaluating yearly performance using an interactive Year slicer.
 * Measuring Year-over-Year revenue growth to assess business performance over time.
 
@@ -104,8 +92,6 @@ Based on the analysis, the following actions are recommended:
 * Increase inventory before forecasted demand peaks to reduce stockout risk.
 * Prioritize replenishment for the highest-demand formats.
 * Allocate more inventory to cities with consistently strong demand.
-* Investigate underperforming cities and stores to identify operational or marketing improvement opportunities.
-* Use demand forecasts to improve purchasing schedules and warehouse planning.
 * Continuously monitor YoY Revenue Growth to evaluate business performance.
 * Compare forecasted demand with actual demand regularly to improve forecasting accuracy.
 * Use the dashboard as an executive decision-support tool for sales planning, inventory management, and supply chain optimization.
