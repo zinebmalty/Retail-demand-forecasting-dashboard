@@ -71,7 +71,7 @@ The analysis focused on:
 
 Dashboard Preview
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/Retail Sales Analysis Demand Forecasting 1-2.png)
 
 ⸻
 
