@@ -77,7 +77,7 @@ Dashboard Preview
 
 Business Insights
 
-* **Total Sales Revenue:** Achieved **$5.7 Billion** in net revenue across **7.43 Million records**.
+* **Total Sales Revenue:** Achieved **$5.7 Billion**  across **7.43 Million records**.
 * **Total Volume Sold:** Reached **41.94 Million units** in overall sales volume.
 * **Pricing Range Impact:** High-value inventory (unit prices scaling up to **$28,999.90**) heavily drives total portfolio performance.
 
