@@ -70,7 +70,7 @@ The analysis focused on:
 
 Dashboard Preview
 
-[Retail Sales Analysis & Demand Forecasting 1_removed.pdf](https://github.com/user-attachments/files/31385336/Retail.Sales.Analysis.Demand.Forecasting.1_removed.pdf)
+![Dashboard](dashboard.png)
 
 ⸻
 
