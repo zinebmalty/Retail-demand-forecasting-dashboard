@@ -71,7 +71,7 @@ The analysis focused on:
 
 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ⸻
 
