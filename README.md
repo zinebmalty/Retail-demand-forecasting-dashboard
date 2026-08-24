@@ -3,7 +3,7 @@ Power BI dashboard for retail sales analysis and 3-month demand forecasting usin
 
 Project Overview
 
-This project presents an end-to-end retail demand forecasting solution built with Power BI.
+This project presents an end-to-end retail demand forecasting solution built with Power BI, This dataset contains sales information from four stores of one of the retailers over 25 months.
 
 ⸻
 
